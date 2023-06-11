@@ -59,6 +59,7 @@ nav ul li :hover {
     flex-direction: row;
     justify-content: space-around;
     margin: auto;
+    margin-top: 5%;
 }
 
 .holder .contenido .card {
@@ -133,8 +134,5 @@ nav ul li :hover {
         margin-top: 5%;
 	}
        
-}
-.contenido  {
-    background-color: rosybrown;
 }
 
